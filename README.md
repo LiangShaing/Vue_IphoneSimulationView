@@ -1,9 +1,9 @@
-# IPHONE_SIMULATION_VIEW
+# VUE_IPHONE_SIMULATION_VIEW
 
 Demo message:
 <img src='./img/1583488341886.jpg'>
 
-1.Custome Content:
+1.Custom Content(solt element):
 
         <iphone-simulation-view>
         <div><h1>Hello</h1></div>
