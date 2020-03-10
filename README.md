@@ -1,7 +1,13 @@
 # VUE_IPHONE_SIMULATION_VIEW
 
-Demo message:
+## Demo 
 <img src='./img/1583488341886.jpg'>
+      
+
+## Installing
+npm install iphone-simulation-view --save
+
+## Usage
 
 1.Custom Content(slot element):
 
@@ -38,6 +44,4 @@ Demo message:
             })
             };
             </script>
-
-        
 
